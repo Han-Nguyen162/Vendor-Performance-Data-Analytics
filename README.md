@@ -5,9 +5,6 @@ Vendor Performance Analysis involves systematically evaluating how effectively s
 
 ---
 
-## Project Workflow
-<img width="745" height="414" alt="image" src="https://github.com/user-attachments/assets/1133d8de-da3f-4d92-b46e-5b83542e0375" />
-
 ## Business Problem
 
 Companies often face losses due to poor inventory practices, inefficient pricing strategies, and vendor over-dependence. This analysis aims to:
